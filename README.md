@@ -1,5 +1,5 @@
-<img src="https://github.com/xXBlkangl84Xx/xXBlkangl84Xx/blob/main/Stardust%20Facebook%20Cover.png" alt="profile banner">
-<img src="https://github.com/xXBlkangl84Xx/xXBlkangl84Xx/blob/main/header.png" alt="profile name banner">
+<img src="https://github.com/xXBlkangl84Xx/xXBlkangl84Xx/blob/main/Stardust%20Facebook%20Cover.gif" alt="profile banner">
+
 
 <!--
 **xXBlkangl84Xx/xXBlkangl84Xx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
