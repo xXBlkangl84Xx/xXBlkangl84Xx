@@ -42,12 +42,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
+</td>
+</tr></table>  
 
 <br/>  
 
