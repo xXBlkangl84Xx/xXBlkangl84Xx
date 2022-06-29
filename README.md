@@ -3,13 +3,13 @@
 </div>  
   
 
-- 🔭 I’m currently working on expanding my portfolio while working full-time  
+- 🔭 I’m currently working on cultivating/restoring my technical skills and expanding my portfolio 
   
 
-- 🌱 I’m currently learning Jupyter Notebooks and Python  
+- 🌱 I’m currently learning advanced Excel skills, Python Data Science libraries (Pandas, NumPy, MatPlot), and statistical analysis
   
 
-- ⚡ Fun fact: I'm one of two people in the U.S. with a rare genetic condition called CACPS  
+- ⚡ Fun fact: I'm one of only two people (the other being my sister) in the U.S. with a rare genetic condition called CACPS!
   
 
 <br/>  
